@@ -65,7 +65,7 @@ int main() {
 
 //Ã°ÅİÅÅĞò
 //15,5,86,39,47,55,29,30
-void BubbleSort(int arr[],int n) {
+/*void BubbleSort(int arr[],int n) {
 	int temp = 0;
 	for (int i = n; n >1; n--) {
 		int flag = 1;
@@ -89,4 +89,4 @@ int main() {
 		printf("%d ", arr[x]);
 	}
 	return 0;
-}
+}*/
