@@ -1,2 +1,0 @@
-E:\DataStructCode\DataStructure\DataStruct\Debug\DataStruct.exe
-E:\DataStructCode\DataStructure\DataStruct\Debug\DataStruct.pdb
